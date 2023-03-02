@@ -1,4 +1,4 @@
-# Unter der Linie. {#eins .unnumbered }
+# Unter der Linie. {#zwei .unnumbered }
 
 ::: justified
 
@@ -133,12 +133,6 @@ dankte ihm für sein Erscheinen und sprach nochmals meine Bereitwilligkeit aus,
 die Taufe an mir und den anderen noch Ungetauften vollziehen zu lassen. Sodann
 begann die Vorstellung des Personals.
 
-Die Taufe ging in der üblichen Weise vor sich. Zunächst kam ich selbst an die
-Reihe. Es ging glimpflich ab. Aus zwei Sektflaschen hatten die Leute mit
-seemännischen Kunstknoten und Flechtwerk ein wunderschönes Doppelglas
-zusammengebaut. Das mußte ich nun nehmen und nach dem Himmel sehen, um die Linie
-zu erkennen. Da ich dabei die Flaschen hob, rann mir das Wasser, mit dem sie ge-
-
 :::: {.wrap-80 }
 ![Linientaufe: Neptun mit Gefolge.](SMS_Wolf_020a.jpg "Linientaufe: Neptun mit Gefolge."){#b020a}
 ::::
@@ -147,7 +141,46 @@ zu erkennen. Da ich dabei die Flaschen hob, rann mir das Wasser, mit dem sie ge-
 ![Linientaufe: Die schwarzen Trabanten Neptuns.](SMS_Wolf_020b.jpg "Linientaufe: Die schwarzen Trabanten Neptuns."){#b020b}
 ::::
 
-S.32
+:::: {.wrap-80 }
+![Linientaufe: Die Taufe im Badesegel.](SMS_Wolf_021a.jpg "Linientaufe: die Taufe im Badesegel."){#b021a}
+::::
+
+:::: {.wrap-80  }
+![Bordmusik während der Linientaufe.](SMS_Wolf_021b.jpg "Bordmusik während der Linientaufe."){#b021b}
+::::
+
+Die Taufe ging in der üblichen Weise vor sich. Zunächst kam ich selbst an die
+Reihe. Es ging glimpflich ab. Aus zwei Sektflaschen hatten die Leute mit
+seemännischen Kunstknoten und Flechtwerk ein wunderschönes Doppelglas
+zusammengebaut. Das mußte ich nun nehmen und nach dem Himmel sehen, um die Linie
+zu erkennen. Da ich dabei die Flaschen hob, rann mir das Wasser, mit dem sie
+gefüllt waren, über das Gesicht, und ich begoß mich von oben bis unten. Milder
+konnte man wirklich nicht behandelt werden, aber der Kommandant hatte doch auch
+wenigstens sein Teil bekommen. Den anderen ging es bedeutend schlechter. Neben
+dem Ladeluk stand ein eineinhalb Meter tiefes Badesegel, das bis oben hin mit
+Wasser gefüllt war. Dicht daneben hatte der Hofbarbier seinen Seifenschaum
+untergebracht, der aus allen möglichen schmierigen Sachen bestand. Auf der
+anderen Seite des Segels war ein Windsack ausgeholt. Waren die Leute nun
+glücklich aus dem Bade, gründlich eingeseift und abrasiert, dann mußten sie
+durch diesen Windsack hindurchkriechen. Meinten sie aber, nun das Ende ihrer
+Leiden erreicht zu haben, dann erlebten sie eine bittere Enttäuschung. Kaum
+waren sie nämlich im Windsack drin, wurde von hinten und vorn mit einem
+Feuerlöschschlauch Wasser gegeben. Wähnten die Unglücklichen, nun endlich Luft
+schöpfen zu können, dann stand ein Trabant vor ihnen und schmierte ihnen wieder
+eine unmögliche Geschichte ins Gesicht.
+
+Nachdem die Taufe beendet und alles, vom Ersten Offizier angefangen,
+vorgenommen, tüchtig eingeseift, mit dem Holzmesser rasiert und reichlich mit
+Wasser begossen war, kam der angenehmere Teil der Feier, die Verleihung der
+Orden. Mir selbst wurde der große Rah-Orden, am Halse zu tragen, zuteil, die
+Flieger, von denen ich später noch sprechen werde, erhielten Flug-Orden usw. Die
+Bettelmönche, die Neptun in kluger Voraussicht des Kommenden gleich mitgebracht
+hatte, traten nun in Tätigkeit. Sie wurden reichlich mit Geschenken und Zigarren
+versehen, damit sich das Personal auf dem Grunde des Meeres einmal auch an
+andern Sachen als an Seewasser gütlich tun konnte. Dann dankte ich mit
+feierlichen Worten für die vollzogene Taufe, und der Gott mit seinem Troß
+verabschiedete sich.
+
 
 :::
 
