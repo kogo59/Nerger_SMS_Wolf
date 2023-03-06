@@ -215,7 +215,6 @@ Wir hatten mit dem „Iltis“, wie ich bereits erzählte, einen bestimmten
 Treffpunkt verabredet. Das hatte jetzt leider keinen Zweck mehr. Wir steuerten
 also nicht dahin, sondern setzten unsere Fahrt weiter südlich fort.
 
-
 :::
 
 :::: align-center
