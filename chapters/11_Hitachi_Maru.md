@@ -221,7 +221,7 @@ längere Zeit in der Nähe von Mauritius Vergeblich! Hatte die Länge der Zeit i
 unseren reichen Kohlenvorrat schon beträchtliche Lücken gerissen, so mußte der
 Kohlenvorrat der „Hitachi Maru“, der ja ohnedies nicht sehr groß war, schon auf
 ein Minimum zusammengeschmolzen sein. Schade! Ich hätte das schöne Schiff nur zu
-gerne [Seite: 129] — 92 nach Hause mitgenommen. Na, es sollte nicht sein!
+gerne nach Hause mitgenommen. Na, es sollte nicht sein!
 Wollten wir aber die Bergung der wertvollen Ladung noch vornehmen, dann war es
 höchste Zeit geworden, einen Ankerplatz aufzusuchen. Auf einem Korallenriff
 nördlich Mauritius wurde geankert und mit der Entleerung begonnen. Die
@@ -229,6 +229,18 @@ wertvollsten Güter wurden herausgeholt. Je tiefer wir kamen, desto schöner und
 kostbarer wurden sie. Es war ein fetter Bissen, den wir hier unseren Gegnern
 weggeschnappt hatten! Drei volle Wochen haben wir uns Tag und Nacht mit seiner
 Verzehrung gemüht.
+
+:::: {.wrap-80  }
+![Munitionskammer auf „Hitachi Maru“.](SMS_Wolf_092a.jpg "Munitionskammer auf „Hitachi Maru“."){#b092a}
+::::
+
+:::: {.wrap-80  }
+![Promenadendeck auf „Hitachi Maru“.](SMS_Wolf_092b.jpg "Promenadendeck auf „Hitachi Maru“."){#b092b}
+::::
+
+:::: {.wrap-100  }
+![Die Besatzung mit der „Wolfs“-Hundemeute.](SMS_Wolf_092c.jpg "Die Besatzung mit der „Wolfs“-Hundemeute."){#b092c}
+::::
 
 :::
 
