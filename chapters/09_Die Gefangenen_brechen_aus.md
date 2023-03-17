@@ -76,7 +76,7 @@ Hühnchen gepflückt. Ihrer Stellung gemäß sollte sie auch weiter der Frau des
 australischen Oberstabsarztes ein wenig an die Hand gehen. Sie würde dafür eine
 kleine Entschädigung bekommen. Damit war sie aber nicht einverstanden. Sie
 dachte, nun wären sie alle gleich, sie wolle sich nur bedienen lassen, nicht
-aber gehorchen. Ich ließ ihr darauf eröffnen, ich hätte die Absicht ge- habt,
+aber gehorchen. Ich ließ ihr darauf eröffnen, ich hätte die Absicht gehabt,
 sie mit den Offiziergefangenen mitessen zu lassen. Da sie sich aber nicht danach
 benehme, würde ich sie mit zu den Mannschaften setzen. Als sie darauf ihre
 Haltung änderte, erhielt sie in ihrer Kammer die Verpflegung der gefangenen
