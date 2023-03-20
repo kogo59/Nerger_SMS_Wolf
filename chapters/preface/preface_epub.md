@@ -1,10 +1,10 @@
 :::: { .fs-xl }
 <br /><br />
 **S.M.S Wolf**
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br />
 ::::
 
-:::: {.wrap-40 .align-right .break-after}
+:::: {.wrap-20 .align-right .break-after}
 ![&nbsp;](logo.jpg ""){#b000}
 ::::
 
@@ -30,7 +30,7 @@ Vom<br />
 ::::
 
 :::: { .fs-s .align-center }
-Kommandanten Fregattenkapitän.<br />
+Kommandanten Fregattenkapitän<br />
 ::::
 
 :::: { .fs-xl .align-center }
