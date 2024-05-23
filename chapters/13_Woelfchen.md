@@ -170,4 +170,3 @@ redlich ihren Teil zum Gelingen der Fahrt beigetragen.
 ****
 ::::
 
-### **Anmerkungen** {.break-before .unnumbered}

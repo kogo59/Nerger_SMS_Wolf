@@ -212,5 +212,3 @@ Gott verläßt einen deutschen Seemann nicht!
 :::: align-center
 ****
 ::::
-
-### **Anmerkungen** {.break-before .unnumbered}

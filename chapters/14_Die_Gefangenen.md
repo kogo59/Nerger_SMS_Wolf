@@ -432,4 +432,3 @@ der Welt.
 ****
 ::::
 
-### **Anmerkungen** {.break-before .unnumbered}

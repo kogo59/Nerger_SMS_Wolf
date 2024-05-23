@@ -177,13 +177,10 @@ des Obermaschinisten, den sie wegen seines beträchtlichen Umfanges nur
 Augen“ nannte. Sie war ein lieber kleiner Racker, der uns zwar manchmal ein
 wenig ärgerte, allen aber viel, viel Freude gemacht hat, ein Sonnenstrählchen.
 
-
 :::
 
 :::: align-center
 ****
 ::::
 
-
-### **Anmerkungen** {.break-before .unnumbered}
 

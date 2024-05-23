@@ -158,5 +158,3 @@ gesetzt. Sparen mit Kohlen, mit Wasser, Lebensmitteln, Inventar und Material war
 ****
 ::::
 
-
-### **Anmerkungen** {.break-before .unnumbered}

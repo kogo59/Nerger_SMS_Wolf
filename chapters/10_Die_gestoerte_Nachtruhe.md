@@ -80,6 +80,3 @@ Schiff war zu sehen.
 :::: align-center
 ****
 ::::
-
-### **Anmerkungen** {.break-before .unnumbered}
-

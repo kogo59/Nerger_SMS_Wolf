@@ -314,4 +314,3 @@ eine Sekunde den Kopf verloren. Sie hatten Vertrauen.
 ****
 ::::
 
-### **Anmerkungen** {.break-before .unnumbered}

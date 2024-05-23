@@ -128,5 +128,3 @@ versenkten sie.
 ****
 ::::
 
-
-### **Anmerkungen** {.break-before .unnumbered}
