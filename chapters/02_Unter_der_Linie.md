@@ -184,12 +184,6 @@ verabschiedete sich.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0200]: [*Wolf*: vergleiche [SMS Wolf](https://de.wikipedia.org/wiki/SMS_Wolf_(1913))]{.footnote}
 

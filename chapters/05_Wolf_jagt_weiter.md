@@ -280,12 +280,6 @@ manchmal sehr schlechten Wetters haben sie sich gut gehalten.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0500]: [*Pago-Pago*: vergleiche [Pago-Pago](https://de.wikipedia.org/wiki/Pago_Pago)]{.footnote}
 

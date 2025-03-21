@@ -217,12 +217,6 @@ also nicht dahin, sondern setzten unsere Fahrt weiter südlich fort.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0400]: [*Iltis*: vergleiche [SMS Iltis](https://de.wikipedia.org/wiki/SMS_Iltis_(1905))]{.footnote}
 

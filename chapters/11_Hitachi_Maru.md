@@ -244,11 +244,5 @@ Verzehrung gemüht.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^1100]: [*Hitachi Maru*: vergleiche [Hitachi Maru](https://de.wikipedia.org/wiki/Hitachi_Maru_(Schiff,_1906))]{.footnote}

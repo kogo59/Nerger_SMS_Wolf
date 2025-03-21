@@ -153,11 +153,5 @@ um es uns anzubieten, und Tabak dafür zu erhalten.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0800]: [*Matunga*: vergleiche [Matunga](https://de.wikipedia.org/wiki/Matunga_(Schiff))]{.footnote}

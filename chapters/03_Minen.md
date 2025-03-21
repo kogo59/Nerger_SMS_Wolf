@@ -186,12 +186,6 @@ Unsere „Höllenmaschinen“ begannen zu wirken.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0300]: [*Aquitania*: vergleiche [RMS Aquitania](https://de.wikipedia.org/wiki/RMS_Aquitania)]{.footnote}
 

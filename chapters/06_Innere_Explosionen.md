@@ -96,11 +96,5 @@ gefallen.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0600]: [*I. W. W*: vergleiche [Industrial Workers of the World](https://de.wikipedia.org/wiki/Industrial_Workers_of_the_World)]{.footnote}
