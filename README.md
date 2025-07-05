@@ -1,6 +1,6 @@
 # S.M.S Wolf
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/13177792/222209802-2c5fffb4-ecf7-4eb1-8f2e-fdfeaec84f05.jpg">
+<img align="right" width="200"  src="https://user-images.githubusercontent.com/13177792/222209802-2c5fffb4-ecf7-4eb1-8f2e-fdfeaec84f05.jpg">
 
 This is a git repository of the source files for the book "S.M.S Wolf von Fregattenkapitän Karl August Nerger"
 
